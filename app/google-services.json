@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1054298375870",
+    "project_id": "shaale-vikas-2",
+    "storage_bucket": "shaale-vikas-2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1054298375870:android:769c998419a22d4cfb80ef",
+        "android_client_info": {
+          "package_name": "com.example.shaalevikas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1054298375870-kvrsdtc5je6p9fa9ltqeussgk9v8j3jl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.shaalevikas",
+            "certificate_hash": "dcfce36a66f9bac82c32b647e741040059b2744f"
+          }
+        },
+        {
+          "client_id": "1054298375870-4eapgjh06vqvvf9kdtls8l5cccs3lrn0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABiHvzas1KByqmx4Sc003p2i70ElsikNo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1054298375870-4eapgjh06vqvvf9kdtls8l5cccs3lrn0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
