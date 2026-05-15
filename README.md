@@ -44,6 +44,6 @@ Build:
 Open in Android Studio (Ladybug or later) and click Run.
 
 🏆 Internship Milestone
-Project Link: https://github.com/prajwal-dotcom/Shaale-Vikas
+Project Link: https://github.com/prajwalvanitha/Shaale-Vikas-master.git
 
 Developed during an internship at MindMatrix.io, Bengaluru.
